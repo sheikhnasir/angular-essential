@@ -1,9 +1,7 @@
 # Angular Essential Training
 
 This is the repository for my course **Angular Essential Training**  
-The full course is available at [LinkedIn Learning](https://www.linkedin.com/learning) and [lynda.com](https://lynda.com).  
-[LinkedIn Learning subscribers: watch here](https://www.linkedin.com/learning/angular-2-essential-training-2)  
-[Lynda.com subscribers: watch here](https://www.lynda.com/AngularJS-tutorials/Angular-2-Essential-Training/540347-2.html)  
+
 
 
 ## Course Description
@@ -68,6 +66,3 @@ If you are getting a list of errors on `npm install` that look like `Cannot find
 ```
 If the caret is there (would look like `"@types/core-js": "^0.9.34"`) then remove it (or copy the contents of the [package.json](https://github.com/coursefiles/angular2-essential-training/blob/master/package.json) file on the origin repository) and run `npm install` again.
   
-## More Stuff
-Check out some of my [other courses on LinkedIn Learning](https://www.linkedin.com/learning/instructors/justin-schwartzenberger?u=2125562). 
-You can also [follow me on twitter](https://twitter.com/schwarty).
