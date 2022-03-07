@@ -1,9 +1,7 @@
 # Angular Essential Training
 
 This is the repository for my course **Angular Essential Training**  
-The full course is available at [LinkedIn Learning](https://www.linkedin.com/learning) and [lynda.com](https://lynda.com).  
-[LinkedIn Learning subscribers: watch here](https://www.linkedin.com/learning/angular-essential-training-2)  
-[Lynda.com subscribers: watch here](https://www.lynda.com/Angular-tutorials/Angular-Essential-Training/5034181-2.html)  
+
 
 
 ## Course Description
@@ -31,11 +29,11 @@ Topics include:
 
 2. Clone this repository into your local machine using the terminal (mac) or Gitbash (PC) 
 
-    `git clone https://github.com/coursefiles/angular-essential-training.git`
+    `git clone https://github.com/sheikhnasir/angular-essential.git`
     
 3. CD to the folder
 
-    `cd angular-essential-training`
+    `cd angular-essential`
 
     and then fetch all of the remote branches for the repository
     
@@ -62,6 +60,3 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 
-## More Stuff
-Check out some of my [other courses on LinkedIn Learning](https://www.linkedin.com/learning/instructors/justin-schwartzenberger?u=2125562). 
-You can also [follow me on twitter](https://twitter.com/schwarty).
