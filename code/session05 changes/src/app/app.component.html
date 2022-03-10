@@ -1,0 +1,16 @@
+
+<h1>
+  {{title}}
+</h1>
+<app-stock-item [stock]="stock"
+  (toggleFavorite)="onToggleFavorite($event)">
+ <!-- <button (click)="testMethod()">With Button 1</button>-->
+</app-stock-item>
+<button (click)="changeStockPrice()">Change Price</button>
+<button (click)="changeStockObject()">Change Stock</button>
+<!--
+<app-stock-item [stock]="stockObj">
+  No buttons for you!!
+</app-stock-item>
+
+-->
